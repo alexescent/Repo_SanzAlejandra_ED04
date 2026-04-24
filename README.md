@@ -23,7 +23,7 @@
 Este repositorio recoge el trabajo realizado para cumplir con los tres pilares del desarrollo profesional exigidos en la tarea:
 
 1.  **Control de Versiones:** Gestión integral mediante Git y despliegue en GitHub.
-2.  **Refactorización:** Mejora de la legibilidad y estructura del código original utilizando las herramientas automáticas de IntelliJ IDEA.
+2.  **Refactorización:** Mejora de la legibilidad y estructura del código original utilizando las herramientas automáticas de NetBeans.
 3.  **Documentación:** Implementación de estándar JavaDoc para generar manuales técnicos automáticos.
 
 ---
