@@ -59,7 +59,7 @@ El código fuente cuenta con comentarios estructurados que incluyen:
 .
 ├── src/
 │   └── tarea4/
-│       ├── Tarea4.java       # Clase principal (Main)
-│       └── Utilidades.java   # Clase de métodos matemáticos
-├── javadoc/                  # Documentación técnica generada
-└── README.md                 # Presentación del proyecto
+│       ├── SanzAlejandraED04.java  # Clase principal (Main)
+│       └── Utilidades.java         # Clase de métodos matemáticos
+├── javadoc/                        # Documentación técnica generada
+└── README.md                       # Presentación del proyecto
