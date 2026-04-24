@@ -5,7 +5,7 @@
 ---
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-2C3E50?style=for-the-badge&logo=apache-netbeans&logoColor=4EA94B)
 
 ---
 # 🚀 Tarea ED04 - Entornos de Desarrollo
