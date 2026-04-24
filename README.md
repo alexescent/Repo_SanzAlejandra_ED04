@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&center=true&vCenter=true&width=500&height=50&lines=👨‍💻+Proyecto+UT04+-+Alejandra+Sanz;✅+Refactorización+de+Código+Java+Complete;📚+Javadoc+Generado+y+Estructurado;🐙+Control+de+Versiones+con+Git/GitHub;🚀+Listo+para+la+Entrega" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=👨‍💻+Proyecto+UT04+-+Alejandra+Sanz;✅+Refactorización+de+Código+Java+Complete;📚+Javadoc+Generado+y+Estructurado;🐙+Control+de+Versiones+con+Git/GitHub;🚀+Listo+para+la+Entrega" alt="Typing SVG" />
 </p>
 
 ---
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-2C3E50?style=for-the-badge&logo=apache-netbeans&logoColor=4EA94B)
 
+![Java](https://img.shields.io/badge/java-%23FF69B4.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23FF69B4.svg?style=for-the-badge&logo=git&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-%23FF69B4.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 ---
 # 🚀 Tarea ED04 - Entornos de Desarrollo
 
