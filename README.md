@@ -4,9 +4,9 @@
 
 ---
 
-![Java](https://img.shields.io/badge/java-%23FF69B4.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23FF69B4.svg?style=for-the-badge&logo=git&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-%23FF69B4.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23E91E63.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F06292.svg?style=for-the-badge&logo=git&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-%23F8BBD0.svg?style=for-the-badge&logo=apache-netbeans&logoColor=black)
 ---
 # 🚀 Tarea ED04 - Entornos de Desarrollo
 
